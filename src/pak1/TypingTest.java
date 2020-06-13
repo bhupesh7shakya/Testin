@@ -14,7 +14,7 @@ import javax.swing.KeyStroke;
 
 /**
  *
- * @author NIMA
+ * @author Bhupesh
  */
 public class TypingTest extends javax.swing.JFrame {
 //Creating the neccessay global variable 
